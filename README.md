@@ -30,7 +30,7 @@ Turn off Sonoff S20 bulb running <Firmware> :
   
 http://web.danmed.co.uk/SmartHome/index.php?action=off&ip=192.168.2.215&type=sonoff&name=Oil%20Radiator
 
-#Notes
+# Notes
 
 Yeelight bulbs need to be in developer mode and you need YeeCLI installed on the webserver.
 
